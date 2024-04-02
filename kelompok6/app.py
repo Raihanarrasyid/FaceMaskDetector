@@ -6,7 +6,7 @@ import detect_mask_image
 def main():
     app = QApplication([])
     window = QMainWindow()
-    window.setWindowTitle('Face Mask Detection App')
+    window.setWindowTitle('Face Mask Detection App || Kelompok 6')
     window.setGeometry(100, 100, 800, 600)
 
     def run_detection_on_image():
